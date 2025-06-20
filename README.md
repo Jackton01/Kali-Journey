@@ -38,9 +38,10 @@ As part of my cybersecurity training and AWS re/Start program, I'm building a po
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/jackton-nyaga](https://www.linkedin.com/in/jackton-nyaga)  
-- **GitHub:** [github.com/JacktonNyaga](https://github.com/JacktonNyaga)  
+- **LinkedIn:** [linkedin.com/in/jackton-nyaga-98697232a](https://www.linkedin.com/in/jackton-nyaga-98697232a)  
+- **GitHub:** [github.com/Jackton01](https://github.com/Jackton01)  
 - **Email:** nyagajackton041@gmail.com
+
 
 
 ---
